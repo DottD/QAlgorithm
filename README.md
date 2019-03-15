@@ -1,3 +1,5 @@
+![logo](Media/Icon.png)
+
 # QAlgorithm
 
 QAlgorithm is an abstract class the contains the logic for a generic algorithm written in C++ and using Qt Libraries. Using this library you will be able to quickly write algorithms, with highly readable structure; furthermore the algorithms can be combined together to form a tree that can run in parallel, using Qt Concurrent engine.
